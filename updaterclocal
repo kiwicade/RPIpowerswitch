@@ -1,0 +1,1 @@
+sed 's| end 0 | sudo nano /home/pi/shutdown.sh \n end 0|' /etc/rc.local 
